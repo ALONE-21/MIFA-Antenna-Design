@@ -10,8 +10,8 @@ Due to GitHub's file size restrictions, the original `.cst` file (which exceeds 
 ## 📁 Folder Structure
 
 ```
-├── design/          # Contains design screenshots and exported design files
-├── results/         # Contains simulation plots, S-parameters, and visualizations
+├── Design/          # Contains design screenshots and exported design files
+├── Results/         # Contains simulation plots, S-parameters, and visualizations
 └── README.md        # Project documentation
 ```
 
@@ -21,7 +21,6 @@ The full CST project file can be downloaded from the following Google Drive link
 
 👉 [Download pcb_antenna.cst](https://drive.google.com/file/d/1wvrlua3h0MtGu7wxtD1N95nFiFG3BNJA/view?usp=drive_link)
 
-> ⚠️ Replace the link above with your actual shareable Google Drive URL.
 
 ## 📐 Project Overview
 
