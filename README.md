@@ -34,7 +34,7 @@ This project simulates a **PCB-based microstrip antenna**, typically used in wir
 
 ## 📊 Results Summary
 
-The `results/` folder includes:
+The `Results/` folder includes:
 - S-parameter plots (S11 reflection coefficient)
 - Gain and radiation pattern visualizations
 - 3D field plots
